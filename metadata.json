@@ -1,0 +1,6 @@
+{
+  "name": "Smart Campus Navigation System",
+  "description": "Graph-Based Campus Navigation using BFS, DFS & Shortest Path algorithms for college campus wayfinding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
